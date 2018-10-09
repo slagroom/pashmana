@@ -1,0 +1,6 @@
+[package]
+name = "pashmana"
+version = "0.1.0"
+authors = ["ts"]
+
+[dependencies]
